@@ -1,0 +1,12 @@
+[submodule "ToolBelt"]
+	path = ToolBelt
+	url = git@github.com:jlyonsmith/ToolBelt.git
+[submodule "MonoMarkdown"]
+	path = MonoMarkdown
+	url = git@github.com:jlyonsmith/MonoMarkdown
+[submodule "MonoYaml"]
+	path = MonoYaml
+	url = git@github.com:jlyonsmith/MonoYaml.git
+[submodule "MonoLiquid"]
+	path = MonoLiquid
+	url = git@github.com:jlyonsmith/MonoLiquid.git
